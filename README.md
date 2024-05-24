@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil💙💙!
-Meu nome é Monique 
+Meu nome é Monique,
 
 Estou estudando na Alura.
 Estou me desenvolvendo na linguagem JavaScript.
